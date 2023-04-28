@@ -1,0 +1,3 @@
+Hello, my name is Kauã Pereira Neves, I'm 18 years old and I'm a full stack programming student with a passion for building creative solutions to complex challenges. I am currently improving my skills in different technologies including HTML5, CSS3, JavaScript, React, Node.js, JQuery, Bootstrap and MySQL. My goal is to become a highly skilled developer and contribute to exciting and innovative projects. Soon, I will start my Computer Science course to further improve my understanding of software theory and application. If you are looking for a dedicated and motivated collaborator, feel free to contact me.
+
+E-mail for contact: kratos466556@gmail.com
